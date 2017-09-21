@@ -1,0 +1,16 @@
+{
+    "browser_action": {
+      "browser_style": true,
+      "default_title": "Window changes",
+      "default_popup": "index.html",
+      "default_icon": {
+        "48": "icons/download.png"
+      }
+    },
+    
+    "description": "A list of changes you can perform on a window.",
+    "manifest_version": 2,
+    "name": "Window changes",
+    "version": "1.0"
+}
+  
